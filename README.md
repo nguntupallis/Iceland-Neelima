@@ -2,7 +2,7 @@
 
 Pre-requisites
 1. Java - jdk-8u191-windows-x64.exe
-2. jdk-11.0.1_windows-x64_bin.exe
+2. Java - jdk-11.0.1_windows-x64_bin.exe
 3. Eclipse IDE - eclipse-inst-win64.exe
 4. Selenium Java Libraries - selenium-java-3.141.59.zip
 5. Chromedriver.exe
